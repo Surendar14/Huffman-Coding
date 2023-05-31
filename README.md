@@ -76,8 +76,10 @@ for (char, frequency) in freq:
 ```
 
 ## Output:
+
 ### Print the characters and its huffmancode
-![11](https://user-images.githubusercontent.com/75235759/175003640-140b85e1-dfb1-435b-82b3-b3173aa0ea54.png)
+<img width="376" alt="Screenshot 2023-05-31 142903" src="https://github.com/Surendar14/Huffman-Coding/assets/75235759/585de980-7f0e-4033-8304-575e82560663">
+
 
 
 ## Result
